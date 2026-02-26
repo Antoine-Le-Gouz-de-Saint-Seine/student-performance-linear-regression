@@ -1,8 +1,8 @@
 ---
 title: "Linear Model Project in R"
 subtitle: "M1–MIDO, 2025–2026"
-authors:
-  - name: "Victor Hadida - Antoine Le Gouz de Saint-Seine"
+author:
+  - name: "Antoine Le Gouz de Saint-Seine"
     affiliation: "Université Paris-Dauphine-PSL"
 date: "January 10, 2026"
 lang: en
