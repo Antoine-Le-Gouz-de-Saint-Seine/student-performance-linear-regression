@@ -42,8 +42,6 @@ The analysis follows a structured statistical workflow:
 5. Diagnostic checks (Residual analysis, Linearity assessment, Normality, Outliers detection) 
 6. Internal validation using a reproducible train/test split (`set.seed(42)`)
 
-The final submitted model was evaluated separately by the instructor on an external held-out dataset.
-
 All analyses are fully reproducible in R.
 
 ---
