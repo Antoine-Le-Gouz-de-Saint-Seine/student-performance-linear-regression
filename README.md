@@ -27,7 +27,7 @@ The dataset contains one observation per student.
   - Extracurricular activities
   - Study method
 
-The goal is to identify statistically meaningful associations and construct a parsimonious regression model.
+The goal is to identify statistically meaningful associations, and construct a parsimonious regression model.
 
 ---
 
